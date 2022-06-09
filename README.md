@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcelCodingAT
+- 👀 Hacking, Bots
+- 🌱 JavaScript, Python
+- 💞️ JavaScript, HTML, CSS, Python
+- 📫 Discord: MarcelAT#1111
