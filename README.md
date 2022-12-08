@@ -18,7 +18,8 @@ I am a Software Engineer!
    
 <br>
 <br>
-<a target="_blank" href="mailto:k3botxyz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:marcelgamingat@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 
 </p>  
+![sus](https://user-images.githubusercontent.com/100438207/206525603-d913aae0-0b50-493f-bb59-a70a67bbae27.png)
