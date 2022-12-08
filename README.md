@@ -22,4 +22,3 @@ I am a Software Engineer!
 <br>
 
 </p>  
-![sus](https://user-images.githubusercontent.com/100438207/206525603-d913aae0-0b50-493f-bb59-a70a67bbae27.png)
