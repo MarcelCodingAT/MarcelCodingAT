@@ -4,7 +4,7 @@ I am a Software Engineer!
 
 ## 📘 About Me
 
-<img src="sus.png" height="200" align="right">
+<img src="pr.png" height="200" align="right">
 
 - 💻 I’m currently working @ <a href="https://ultimod.xyz/">UltiMod</a>
 - ☁️ I'm interested in Applications in JS, Lua, Python, C#
