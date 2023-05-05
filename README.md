@@ -7,9 +7,9 @@ I am a Software Engineer!
 <img src="sus.png" height="200" align="right">
 
 - 💻 I’m currently working @ <a href="https://ultimod.xyz/">UltiMod</a>
-- ☁️ I'm interested in Applications in Lua
-- 🛠️ I’m currently developing a Music Application and Crack Forum
-- 📖 I’m currently preparing to get my Motorcycle
+- ☁️ I'm interested in Applications in JS, Lua, Python, C#
+- 🛠️ I’m currently developing a Music Application and Game Organizer
+- 📖 I’m currently learning to hack
 - 🌎 Everything in the world is connected in some way
 #
 <p align="center">
